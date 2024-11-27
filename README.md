@@ -13,6 +13,8 @@ This repository contains the code that was developed and used for the IKT450 fis
 
 [data](/data/): Contains statistics that were collected during training and testing.
 
+[drawio-diagrams](/drawio-diagrams/): Contains diagrams that were used in the report.
+
 ## Examples
 ![Predicted distance between two images](images/474_490_ok.png)
 
